@@ -22,11 +22,11 @@ Perform the following tasks:
    - Link: https://github.com/abefimrs/dipti-final-exam-batch-2.git
 
 2. **Make changes and commit.**
-   - Create a file named `YourName.md` by adding a new section titled “Project Overview”.
+   - Create a file named **`YourName.md`** by adding a new section titled “Project Overview”.
    - Stage and commit the changes with the message “Updated YourName.md with Project Overview”. (5 marks)
 
 3. **Create and merge a branch.**
-   - Create a new branch named `bug-fix`.
+   - Create a new branch named **`YourName-bug-fix`**.
    - Modify the file `YourName.md` again to add a note saying “Bug fixes included”.
    - Commit and merge this branch back into `main` using the `--no-ff` option. (10 marks)
 
