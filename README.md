@@ -13,6 +13,8 @@ Answer the following questions:
 ****Just write answer in 1 or 2 line.**
 
 ## Section B: Practical Tasks (30 Marks)
+**Be prepared to explain your practical tasks and answer questions in the viva session.**
+
 Perform the following tasks:
 
 1. **Clone an existing repository from GitHub.**
@@ -33,5 +35,4 @@ Perform the following tasks:
    - Open a pull request and describe the changes you made. (10 marks)
 
 
-** Be prepared to explain your practical tasks and answer these questions in the viva session.
-
+**Be prepared to explain your practical tasks and answer questions in the viva session.**
