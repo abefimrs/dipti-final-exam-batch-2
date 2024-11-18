@@ -2,7 +2,29 @@
 
 *Duration: 1 hour*
 
-## Section A: Theory (20 Marks)
+## Section A: Practical Tasks (30 Marks)
+**Be prepared to explain your practical tasks and answer questions in the viva session.**
+
+Perform the following tasks:
+
+1. **Initialize a new Git repository locally.**
+   - Create a directory called project-repo and initialize it as a Git repository. (5 marks)
+
+2. **Create a new file and commit it.**
+   - Add a file named index.html with a simple HTML structure.
+   - Stage and commit the file with the message “Initial commit”. (5 marks)
+
+3. **Create a new branch and make changes.**
+   - Create a branch named feature-update.
+   - Edit the index.html file by adding a header tag ("h1").
+   - Commit the changes with a meaningful message.(10 marks)
+
+4. **Push your changes to GitHub.**
+   - Create a new GitHub repository named yourname-project-repo.
+   - Link your local repository to the GitHub remote.
+   - Push both the main and feature-update branches to GitHub. (10 marks)
+  
+## Section B: Theory (20 Marks)
 Answer the following questions:
 
 1. **What is the difference between Git and other version control systems?** (5 marks)
@@ -10,29 +32,15 @@ Answer the following questions:
 3. **Describe the concept of a remote repository in Git.** How do you add a remote repository? (5 marks)
 4. **What is a fork in GitHub, and when would you use it?** (5 marks)
 
+
+  
+   
+**How/Where to answer?**
+  - Create a file name EXAM.md  in your practicle repository ( As you done it in practicle )
+  -   Answer the questions with number i.e. **1.ANS: your anser**
+      
 ****Just write answer in 1 or 2 line.**
-
-## Section B: Practical Tasks (30 Marks)
-**Be prepared to explain your practical tasks and answer questions in the viva session.**
-
-Perform the following tasks:
-
-1. **Clone an existing repository from GitHub.**
-   - Clone a repository named `dipti-final-exam-batch-2` from your GitHub account. (5 marks)
-   - Link: https://github.com/abefimrs/dipti-final-exam-batch-2.git
-
-2. **Make changes and commit.**
-   - Create a file named **`YourName.md`** by adding a new section titled “Project Overview”.
-   - Stage and commit the changes with the message “Updated YourName.md with Project Overview”. (5 marks)
-
-3. **Create and merge a branch.**
-   - Create a new branch named **`YourName-bug-fix`**.
-   - Modify the file `YourName.md` again to add a note saying “Bug fixes included”.
-   - Commit and merge this branch back into `main` using the `--no-ff` option. (10 marks)
-
-4. **Create a pull request on GitHub.**
-   - Push your `bug-fix` branch to GitHub.
-   - Open a pull request and describe the changes you made. (10 marks)
+**Share the repository link and Done**
 
 
 **Be prepared to explain your practical tasks and answer questions in the viva session.**
